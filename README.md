@@ -2,7 +2,7 @@
 
 **Finding the bottlenecks in a hospital pharmacy and testing staffing and process changes, so that 95% of high-risk patients have their medicines reconciled within 24 hours**
 
-MSc Business Analytics group project, Alliance Manchester Business School
+MSc Business Analytics group project, University of Manchester
 
 `SIMUL8` · `Python` · `SciPy` · `Distribution fitting` · `Queueing` · `Scenario analysis`
 
@@ -65,8 +65,5 @@ A hospital's inpatient pharmacy handles about 36 admissions a day across six war
 ## 📂 Data availability
 The timing and admission data were provided for coursework and are **not included**. The SIMUL8 model file is not included because it needs licensed software to open.
 
-## 👥 Team & my contribution
-Group project. **My contribution:** [fill in, e.g. distribution fitting and input modelling]
-
 ---
-**Author:** Yi-Wen (Sophia) Su · [LinkedIn](https://www.linkedin.com/in/your-handle)
+**Author:** Yi-Wen (Sophia) Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433)
