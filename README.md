@@ -66,4 +66,4 @@ A hospital's inpatient pharmacy handles about 36 admissions a day across six war
 The timing and admission data were provided for coursework and are **not included**. The SIMUL8 model file is not included because it needs licensed software to open.
 
 ---
-**Author:** Yi-Wen (Sophia) Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433)
+**Author:** Sophia Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433)
